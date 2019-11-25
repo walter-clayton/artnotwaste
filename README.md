@@ -34,8 +34,8 @@ if you would like to contribute
 * CSS3
 * Javascript
 * Bootstrap
-* Figma
-* Trello
+* [Figma](https://www.figma.com/file/hCZo3ab4eSNDKp3VBJLbdG/Make-Art-Not-Waste?node-id=0%3A1) 
+* [Trello](https://trello.com/b/8x5yzqEL/make-art-not-waste)
 
 * Node.js
 * MongoDB
