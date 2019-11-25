@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>My App</title>
+</head>
+<body>
+	<h1> <%= title %> </h1>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+	
+	<ul>
+		<% for (var i = 0; i < items.length; i++) { %>
+		<li><%= items[i].desc %></li>
+		<%	} %>
+	</ul>
+
+	<form action = "/add" method="post">
+		<input type="text" name="newItem">
+		<input type="submit" name="">
+	</form>
+</body>
+</html>
